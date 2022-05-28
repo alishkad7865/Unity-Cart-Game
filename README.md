@@ -1,4 +1,4 @@
-# Unity-Cart-Game
+# Unity Cart Game
 
 ## Objective 
 Create a new unity game and start with a sample game and make modifications along the way.
